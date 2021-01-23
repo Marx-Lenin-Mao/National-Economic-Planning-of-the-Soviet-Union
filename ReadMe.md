@@ -1,4 +1,4 @@
-(for html version, click [here](html/_book/index.html))
+(for html version, click [here](https://marx-lenin-mao.github.io/National-Economic-Planning-of-the-Soviet-Union/))
 # <p align="center">苏联国民经济计划学目录</p>
 
 [（一）     前言](markdown/苏联国民经济计划学02.md)
